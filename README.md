@@ -1,7 +1,7 @@
 # Introduction-to-Data-Science-in-Python
 Coursera | Introduction to Data Science in Python（University of Michigan）
 
-These may include the latest answers to Introduction to Data Science in Python's quizs and assignments
+These may include the latest answers to Introduction to Data Science in Python's quizs and assignments.
 You can see the link in my blog or CSDN.
 
 Blog link:
